@@ -1,0 +1,3 @@
+PyYAML~=5.4.1
+idle-time~=0.1.0
+rivalcfg~=4.3.0
